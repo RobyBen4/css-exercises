@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.oddnumbers{
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.size{
+    font-size: 24px;
+}
+
+#secondelement{
+    color: blue;
+    font-size: 36px;
+}
+
+#fourthelement{
+    background-color: lightgreen;
+    font-weight: bold;
+}
